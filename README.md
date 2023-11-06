@@ -15,8 +15,8 @@ Step 9:Find the most likely sequence of hidden states by selecting the hidden st
 
 ##  Program:
 ```
-Developed by: Popuri Siva Naga Nithin
-Register Number: 212221240037
+Developed by: S Harish Kumar
+Register Number: 212221230104
 ```
 ```
 import numpy as np
